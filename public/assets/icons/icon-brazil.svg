@@ -1,0 +1,37 @@
+<svg width="40" height="30" viewBox="0 0 40 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_335_158" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="40" height="30">
+<path d="M0 0H40V30H0V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_335_158)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V30H40V0H0Z" fill="#009933"/>
+<mask id="mask1_335_158" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="40" height="30">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V30H40V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_335_158)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.9085 4.62988L35.1608 15.2592L19.701 25.214L4.7612 15.0532L19.9085 4.62988Z" fill="#FFD221"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.9085 4.62988L35.1608 15.2592L19.701 25.214L4.7612 15.0532L19.9085 4.62988Z" fill="url(#paint0_linear_335_158)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.0001 21.5001C23.4518 21.5001 26.2501 18.7018 26.2501 15.2501C26.2501 11.7982 23.4518 9 20.0001 9C16.5483 9 13.7501 11.7982 13.7501 15.2501C13.7501 18.7018 16.5483 21.5001 20.0001 21.5001Z" fill="#2E42A5"/>
+<mask id="mask2_335_158" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="13" y="9" width="14" height="13">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.0001 21.5001C23.4518 21.5001 26.2501 18.7018 26.2501 15.2501C26.2501 11.7982 23.4518 9 20.0001 9C16.5483 9 13.7501 11.7982 13.7501 15.2501C13.7501 18.7018 16.5483 21.5001 20.0001 21.5001Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_335_158)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.9751 18.2125L17.6958 18.3592L17.7492 18.0484L17.5233 17.8282L17.8354 17.7829L17.9751 17.5L18.1147 17.7829L18.4268 17.8282L18.2009 18.0484L18.2543 18.3592L17.9751 18.2125Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.4751 18.2125L20.1958 18.3592L20.2492 18.0484L20.0233 17.8282L20.3355 17.7829L20.4751 17.5L20.6147 17.7829L20.9268 17.8282L20.701 18.0484L20.7543 18.3592L20.4751 18.2125Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.4751 19.7125L20.1958 19.8592L20.2492 19.5484L20.0233 19.3281L20.3355 19.2828L20.4751 19L20.6147 19.2828L20.9268 19.3281L20.701 19.5484L20.7543 19.8592L20.4751 19.7125Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.225 14.4625L18.9458 14.6092L18.9992 14.2984L18.7733 14.0782L19.0854 14.0329L19.225 13.75L19.3647 14.0329L19.6768 14.0782L19.4509 14.2984L19.5043 14.6092L19.225 14.4625Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.225 16.9625L18.9458 17.1092L18.9992 16.7984L18.7733 16.5782L19.0854 16.5329L19.225 16.25L19.3647 16.5329L19.6768 16.5782L19.4509 16.7984L19.5043 17.1092L19.225 16.9625Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.475 15.7125L17.1958 15.8592L17.2491 15.5484L17.0233 15.3282L17.3354 15.2829L17.475 15L17.6146 15.2829L17.9268 15.3282L17.7009 15.5484L17.7541 15.8592L17.475 15.7125Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.725 16.7125L15.4458 16.8594L15.4992 16.5485L15.2732 16.3282L15.5854 16.2829L15.725 16L15.8645 16.2829L16.1768 16.3282L15.9509 16.5485L16.0042 16.8594L15.725 16.7125Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.475 12.4625L21.1959 12.6093L21.2492 12.2984L21.0233 12.0782L21.3355 12.0329L21.475 11.75L21.6147 12.0329L21.9269 12.0782L21.7009 12.2984L21.7543 12.6093L21.475 12.4625Z" fill="#F7FCFF"/>
+<path d="M12.4061 13.7463L12.5941 11.2534C18.5914 11.7056 23.3251 13.6777 26.7353 17.1854L24.9428 18.928C21.9871 15.8878 17.8281 14.1552 12.4061 13.7463Z" fill="#F7FCFF"/>
+<path d="M15.3619 13.2535L15.4263 12.6318C19.2925 13.0323 22.6086 14.5131 25.3648 17.0712L24.9396 17.5292C22.2838 15.0643 19.0945 13.6401 15.3619 13.2535Z" fill="#009933"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_335_158" x1="40" y1="29.9998" x2="40" y2="-0.000167659" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFC600"/>
+<stop offset="1" stop-color="#FFDE42"/>
+</linearGradient>
+</defs>
+</svg>

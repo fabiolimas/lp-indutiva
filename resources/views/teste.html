@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .letreiro-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.letreiro {
+  display: inline-block;
+  white-space: nowrap;
+  animation: marquee 2s linear infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+  </style>
+
+  
+</head>
+<body>
+  <div class="letreiro-container">
+    <div class="letreiro">
+      Exemplo de Efeito de Letreiro!
+    </div>
+  </div>
+</body>
+</html>
